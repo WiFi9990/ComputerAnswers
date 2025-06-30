@@ -3,7 +3,7 @@ An Answer sheet for DSU Computer subject created by **WiFi990** and **keenzanoob
 ## This week's Homeworks:
 ```
 LAB 1 : 1.1 ไฟกระพริบ ต่อ LED ขา 13
-                ไฟจราจร ต่อ LED ที่ขา 2 3 4 ไฟแดง 5 วินาที ไฟเหลือง 3 วินาที ไฟเขียว 6 วินาที
+            ไฟจราจร ต่อ LED ที่ขา 2 3 4 ไฟแดง 5 วินาที ไฟเหลือง 3 วินาที ไฟเขียว 6 วินาที
         1.2 ไฟกระพริบ 8 ดวง
                   1 2 3 4 5 6 7 8
                   *             *
